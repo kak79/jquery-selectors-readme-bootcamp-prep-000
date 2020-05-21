@@ -7,7 +7,7 @@ function paragraphSelector(){
 
 function lastImageSelector(){
   
-  return $("#cat"); 
+  return $("img:first"); 
    
   
 }
