@@ -32,7 +32,7 @@ function divSelector(){
 function firstListItem(){
  //The function should use a first-child selector to return the first list item in the ul with the ID pic-list 
   
-   $("p:first-child (1 li)");
+   return $(li:first-child());
   
 }
 
