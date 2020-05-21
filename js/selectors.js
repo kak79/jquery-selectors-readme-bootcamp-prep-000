@@ -11,7 +11,7 @@ function lastImageSelector(){
  //The function should use the last jQuery selector to return the last image in index.html 
   
 
-   $( img="cat"); 
+  return $(img="cat"); 
    
   
 }
