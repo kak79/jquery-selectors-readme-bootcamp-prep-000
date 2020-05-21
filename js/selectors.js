@@ -18,7 +18,7 @@ function lastImageSelector(){
 function ninjaBabySelector(){
  //The function should use an ID selector to return the ninja baby image. 
   
-  return $(img.id= "baby-ninja");
+  return $("#baby-ninja");
   
 }
 
