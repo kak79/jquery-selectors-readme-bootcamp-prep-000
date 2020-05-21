@@ -25,7 +25,7 @@ function ninjaBabySelector(){
 function divSelector(){
  //The function should use a class selector to return the two divs with the class pics 
   
-  $(".pics");
+  return $(".pics");
   
 }
 
