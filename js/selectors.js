@@ -10,7 +10,7 @@ function paragraphSelector(){
 function lastImageSelector(){
  //The function should use the last jQuery selector to return the last image in index.html 
   
-  var img = 
+  var img = "cat";
   return $(img); 
    
   
