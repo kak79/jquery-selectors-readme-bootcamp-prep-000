@@ -3,7 +3,7 @@
 function paragraphSelector(){
   //The function should use an element selector to select the p tags in index.html and return those elements.
   
-  $("p:not(:empty)");
+  return $("p");
   
 }
 
