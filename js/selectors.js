@@ -26,7 +26,7 @@ function divSelector(){
 
 function firstListItem(){
   
-  
+  $("ul li:eq(0)")
   
   
 }
