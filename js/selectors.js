@@ -19,14 +19,14 @@ function lastImageSelector(){
 function ninjaBabySelector(){
  //The function should use an ID selector to return the ninja baby image. 
   
-  return $(id= "baby-ninja");
+  return $(img.id= "baby-ninja");
   
 }
 
 function divSelector(){
  //The function should use a class selector to return the two divs with the class pics 
   
-  $(div class ="pics");
+  $(div.class ="pics");
   
 }
 
